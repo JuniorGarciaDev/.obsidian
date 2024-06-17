@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "0b94cc50355a3b89",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a31ff05a04e5546",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab1f1717aa4fe816",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "03b9a40c51b12743",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Banco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "96e110762b158fe5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cadastro de Classes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9b9b479808ab46e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cadastro Banco.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2b5ce16ce3854a86",
+    "type": "split",
+    "children": [
+      {
+        "id": "3308a77dc9a738c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7f8053a30eccc4f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c4bcf0926ab5f6a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "927f6be2465a7e20",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f3ec8cefe6a3e2e",
+    "type": "split",
+    "children": [
+      {
+        "id": "044fe0e33c40e771",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c7143acedb295040",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Banco.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8cc9541ccf10ae1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Banco.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4aaf0d37bd810edf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "39e256bf04e1404c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Banco.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir a troca rápida": false,
+      "graph:Abrir visualização em gráfico": false,
+      "canvas:Criar novo canvas": false,
+      "daily-notes:Abrir a nota de hoje": false,
+      "templates:Inserir modelo": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "03b9a40c51b12743",
+  "lastOpenFiles": [
+    "Cadastro de Produto.md",
+    "Cadastro de Classes.md",
+    "Cadastro Banco.md",
+    "TSEEKBUTTON GRUPO PRODUTO.md",
+    "Banco.md",
+    "Listagem de Amparo Legal.md",
+    "Ato Incidência.md",
+    "Codigo Instrumento Amparo Legal.md",
+    "Estrutura Administrativa.md",
+    "Classes.md",
+    "TSEEKBUTTON Natureza.md",
+    "Pasted image 20240610110356.png",
+    "Pasted image 20240610110225.png",
+    "Pasted image 20240610110202.png",
+    "GRUPO.md",
+    "Formulários Pessoa Fisica Bloqueados.md",
+    "Cadastro de Cargo.md",
+    "DataGrid Cargo.md",
+    "CBO Cargo.md",
+    "TCombo Cargo.md",
+    "Datagrid Tomador Obra.md",
+    "Cadastro Tomador Obra.md",
+    "Campo Código Terceiro.md",
+    "TSEEKBUTTON Busca.md",
+    "Percentual Desoneração.md",
+    "Cadastro Pessoa Juridica.md",
+    "Controlar Validade Documento.md",
+    "Limpar Filtros Pessoa Fisica.md",
+    "TCombo Tipo de Cadastro.md",
+    "Pasted image 20240607105344.png",
+    "Pasted image 20240531115007.png",
+    "Pasted image 20240531114900.png",
+    "Pasted image 20240531114758.png",
+    "Pasted image 20240531114010.png",
+    "Pasted image 20240531113721.png",
+    "Pasted image 20240531113512.png",
+    "Sem título 1.canvas",
+    "Sem título.canvas"
+  ]
+}
